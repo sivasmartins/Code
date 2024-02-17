@@ -12,9 +12,8 @@ Código para envio de texto automatizado para amigos/grupos no WhatsApp
 
 
 |                      ⚠️ Aviso importante                      |
-|--|
+| - |
 |  Caso o navegador impeça que o script seja colado no Console.|
-|--|
+|-|
 |  **Para contornar o problema**|
-|--| 
 |  1) Ainda no console do desenvolvedor e digite: "allow-scripts"| 
